@@ -1,1 +1,1 @@
-# deploy-client-server
+# client server deployment
